@@ -1,0 +1,10 @@
+[package]
+name = "feedback_loop"
+version = "0.1.0"
+authors = ["Dodo"]
+edition = "2018"
+
+
+[dependencies]
+itertools = "0.10"
+tokio = { version = "1.6", features = ["process", "io-util", "macros", "rt", "rt-multi-thread"] }
