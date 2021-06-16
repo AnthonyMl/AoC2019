@@ -1,0 +1,5 @@
+[package]
+name = "computer_repair"
+version = "0.1.0"
+authors = ["AnthonyMl"]
+edition = "2018"
